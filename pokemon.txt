@@ -5,3 +5,5 @@ There is a plant seed on its back right from the day this Pokémon is born. The 
 Height-2' 04"
 Weight-15.2 lbs
 Category-Seed
+
+Evolution Ivysour => Venusour
