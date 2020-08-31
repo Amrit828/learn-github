@@ -7,3 +7,5 @@ Weight-15.2 lbs
 Category-Seed
 
 Evolution Ivysour => Venusour
+
+Ash's 5th pokemon
